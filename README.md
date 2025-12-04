@@ -86,8 +86,9 @@ Adalimumab utilization tripled after the October 2018 Humira patent expiry (0.7 
 
 1. Clone the repository  
 
-    git clone https://github.com/AnooshAsadi/tnf-inhibitor-denmark-analysis.git  
-    cd tnf-inhibitor-denmark-analysis
+```bash
+git clone https://github.com/AnooshAsadi/tnf-inhibitor-denmark-analysis.git
+cd tnf-inhibitor-denmark-analysis
 
 2. (Optional) Create and activate a virtual environment  
 
