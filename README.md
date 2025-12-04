@@ -120,4 +120,5 @@ Copenhagen, Denmark
 [LinkedIn](https://www.linkedin.com/in/anooshasadi) | [Email](mailto:anooshasadi@gmail.com)
 
 ---
+
 *This project demonstrates the intersection of clinical knowledge and data analysis skills, aimed at healthcare analytics roles in the Danish pharmaceutical and hospital sector.*
