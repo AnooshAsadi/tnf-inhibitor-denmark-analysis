@@ -83,12 +83,12 @@ Adalimumab utilization tripled after the October 2018 Humira patent expiry (0.7 
 ```
 
 ## How to Run
-1. Clone the repository
-2. Install dependencies: `pip install pandas matplotlib openpyxl`
-3. Open `tnf_analysis.ipynb` in VS Code or Jupyter
-4. Run all cells
 
-**Requirements:** Python 3.10+
+1. Clone the repository  
+
+```bash
+git clone https://github.com/AnooshAsadi/tnf-inhibitor-denmark-analysis.git
+cd tnf-inhibitor-denmark-analysis
 
 ## Future Extensions
 With access to additional data, this analysis could be extended to:
