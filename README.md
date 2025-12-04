@@ -84,28 +84,28 @@ Adalimumab utilization tripled after the October 2018 Humira patent expiry (0.7 
 
 ## How to Run
 
-1. Clone the repository  
-
+1. Clone the repository
 ```bash
 git clone https://github.com/AnooshAsadi/tnf-inhibitor-denmark-analysis.git
 cd tnf-inhibitor-denmark-analysis
+```
 
-2. (Optional) Create and activate a virtual environment  
+2. (Optional) Create and activate a virtual environment
+```bash
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
 
-    python -m venv .venv  
-    .\.venv\Scripts\Activate.ps1
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
 
-3. Install dependencies  
-
-    pip install -r requirements.txt
-
-4. Run the notebook  
-
-    - Open `tnf_analysis.ipynb` in VS Code (Python + Jupyter extensions) or Jupyter Lab  
-    - Run all cells to reproduce the analysis and charts  
+4. Run the notebook
+   - Open `tnf_analysis.ipynb` in VS Code (Python + Jupyter extensions) or Jupyter Lab
+   - Run all cells to reproduce the analysis and charts
 
 **Requirements:** Python 3.10+ and Git installed
-
 ## Future Extensions
 With access to additional data, this analysis could be extended to:
 - Link to RKKP/DANBIO patient outcomes
